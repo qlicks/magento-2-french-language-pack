@@ -15312,3 +15312,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Veuillez entrer une date dans le passé.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"Cannot reset the customer's password","Impossible de réinitialiser le mot de passe du client",module,Magento_CustomerGraphQl
