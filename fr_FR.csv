@@ -15313,3 +15313,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
 "Cannot reset the customer's password","Impossible de réinitialiser le mot de passe du client",module,Magento_CustomerGraphQl
+"Could not update the product with SKU %sku: %message","Impossible de mettre à jour le produit avec le SKU %sku: %message"
